@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50076187923",
+    "project_id": "wahab-14612",
+    "storage_bucket": "wahab-14612.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50076187923:android:c453227aa8e50e1af06ee6",
+        "android_client_info": {
+          "package_name": "com.example.awais"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBl3DnP95sowg6CochPH1dhVpi9lI958"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
